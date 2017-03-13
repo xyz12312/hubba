@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+
+<html ng-app="app">
+
+<head>
+
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" />
+
+    <script src="http://kendo.cdn.telerik.com/2017.1.118/js/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+
+    <script src="app.js"></script>
+    <script src="/app/app.route.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="app.css">
+    <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2017.1.118/styles/kendo.common.min.css" />
+    <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2017.1.118/styles/kendo.blueopal.min.css" />
+
+    <script src="http://kendo.cdn.telerik.com/2017.1.118/js/kendo.all.min.js"></script>
+    <script src="controllers.js"></script>
+    <script src="/controllers/controller.allLibraries.js"></script>
+    <script src="/controllers/controller.findBooks.js"></script>
+
+</head>
+
+
+<body>
+    <div class="title" style="background-color:darkblue;color:aliceblue">Library User Interface</div>
+    <nav class="navbar navbar-default">
+        <div class="container" style="padding-left:0px;">
+
+            <ul class="nav navbar-nav navbar-left">
+                <li class="active" id="alPage"><a href="#AllLibraries"> Libraries near you</a></li>
+                <li id="fbPage"><a href="#FindBooks"> Find Books</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div ng-app="app" id="main">
+        <div ng-view></div>
+    </div>
+</body>
+
+</html>

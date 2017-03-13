@@ -1,0 +1,7 @@
+﻿<div id="fbViewID">
+    <div>
+        <input kendo-masked-text-box id="findBooksID" placeholder="Enter the library ID to search books available" />
+        <kendo-button class="k-primary loadBooks" ng-click="vm.loadBooks()">Load</kendo-button>
+    </div>
+    <div class="gridClass" kendo-grid k-options="vm.bookOptions" k-rebind="vm.bookOptions"></div>
+</div>

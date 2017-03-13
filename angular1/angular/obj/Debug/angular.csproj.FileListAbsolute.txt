@@ -1,0 +1,29 @@
+C:\Users\sachapp\angular\angular\bin\angular.dll.config
+C:\Users\sachapp\angular\angular\bin\angular.dll
+C:\Users\sachapp\angular\angular\bin\angular.pdb
+C:\Users\sachapp\angular\angular\obj\Debug\angular.csprojResolveAssemblyReference.cache
+C:\Users\sachapp\angular\angular\obj\Debug\angular.dll
+C:\Users\sachapp\angular\angular\obj\Debug\angular.pdb
+C:\Users\patel\Desktop\angular\angular\bin\angular.dll.config
+C:\Users\patel\Desktop\angular\angular\bin\angular.dll
+C:\Users\patel\Desktop\angular\angular\bin\angular.pdb
+C:\Users\patel\Desktop\angular\angular\obj\Debug\angular.csprojResolveAssemblyReference.cache
+C:\Users\patel\Desktop\angular\angular\obj\Debug\angular.dll
+C:\Users\patel\Desktop\angular\angular\obj\Debug\angular.pdb
+C:\Users\patel\Desktop\angular1\angular\bin\angular.dll.config
+C:\Users\patel\Desktop\angular1\angular\bin\angular.dll
+C:\Users\patel\Desktop\angular1\angular\bin\angular.pdb
+C:\Users\patel\Desktop\angular1\angular\obj\Debug\angular.dll
+C:\Users\patel\Desktop\angular1\angular\obj\Debug\angular.pdb
+D:\angular1\angular\bin\angular.dll.config
+D:\angular1\angular\bin\angular.dll
+D:\angular1\angular\bin\angular.pdb
+D:\angular1\angular\obj\Debug\angular.csprojResolveAssemblyReference.cache
+D:\angular1\angular\obj\Debug\angular.dll
+D:\angular1\angular\obj\Debug\angular.pdb
+D:\New folder (3)\angular1\angular\bin\angular.dll.config
+D:\New folder (3)\angular1\angular\bin\angular.dll
+D:\New folder (3)\angular1\angular\bin\angular.pdb
+D:\New folder (3)\angular1\angular\obj\Debug\angular.csprojResolveAssemblyReference.cache
+D:\New folder (3)\angular1\angular\obj\Debug\angular.dll
+D:\New folder (3)\angular1\angular\obj\Debug\angular.pdb
